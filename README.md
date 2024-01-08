@@ -10,6 +10,16 @@ This project is related to create a scheduler to start the stop the ec2 machine 
 ![image](https://github.com/abhiramdas99/aws-event-bridge-schedule/assets/62290469/97320945-9e81-4f44-9625-92643b0f1d1b)
 ![image](https://github.com/abhiramdas99/aws-event-bridge-schedule/assets/62290469/71df6be6-6ca6-4ee7-b6d3-410d612eba88)
 ![image](https://github.com/abhiramdas99/aws-event-bridge-schedule/assets/62290469/2437aa14-ad0c-43dd-adcb-a2e563359d25)
+![image](https://github.com/abhiramdas99/aws-event-bridge-schedule/assets/62290469/69dbb187-9ca3-4360-b8c3-bc8dedec474a)
+![image](https://github.com/abhiramdas99/aws-event-bridge-schedule/assets/62290469/96c0b1f7-bc29-460a-ba5d-fa31b637a4ca)
+![image](https://github.com/abhiramdas99/aws-event-bridge-schedule/assets/62290469/3317df94-d102-4084-9767-6953ac0f4b94)
+![image](https://github.com/abhiramdas99/aws-event-bridge-schedule/assets/62290469/bcf576ae-4071-4a4f-8f9c-ca3e697b6d4d)
+![image](https://github.com/abhiramdas99/aws-event-bridge-schedule/assets/62290469/af012a0b-e9e1-4ea5-b857-7133ee091a19)
+- Follow the below link for creating  role -
+- Review and save
+  
+
+
 
 
 

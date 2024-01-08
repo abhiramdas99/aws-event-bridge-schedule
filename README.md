@@ -17,7 +17,8 @@ This project is related to create a scheduler to start the stop the ec2 machine 
 ![image](https://github.com/abhiramdas99/aws-event-bridge-schedule/assets/62290469/af012a0b-e9e1-4ea5-b857-7133ee091a19)
 - Follow the below link for creating  role -
 - Review and save
-  
+- Follow the aws link for more detail :
+  https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/Stop_Start.html 
 
 
 
